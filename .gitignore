@@ -21,3 +21,14 @@
 *.i*86
 *.x86_64
 *.hex
+
+# Debugging whatnot
+*.core
+
+# Vim whatnot
+*.swp
+*.swo
+
+# binaries
+command_tests
+
